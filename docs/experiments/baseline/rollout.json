@@ -1,0 +1,1802 @@
+[
+  {
+    "episode": "episode_00005.npz",
+    "seed": 100042,
+    "start": 10,
+    "horizon": 1,
+    "teacher_forced_nll": 32.11311721801758,
+    "free_running_latent_mse_to_mu": 0.660882294178009,
+    "generation": "independent_mixture_sample"
+  },
+  {
+    "episode": "episode_00005.npz",
+    "seed": 100042,
+    "start": 10,
+    "horizon": 5,
+    "teacher_forced_nll": 32.466819763183594,
+    "free_running_latent_mse_to_mu": 0.5672992467880249,
+    "generation": "independent_mixture_sample"
+  },
+  {
+    "episode": "episode_00005.npz",
+    "seed": 100042,
+    "start": 10,
+    "horizon": 10,
+    "teacher_forced_nll": 31.46441650390625,
+    "free_running_latent_mse_to_mu": 0.7060964703559875,
+    "generation": "independent_mixture_sample"
+  },
+  {
+    "episode": "episode_00005.npz",
+    "seed": 100042,
+    "start": 10,
+    "horizon": 20,
+    "teacher_forced_nll": 31.202489852905273,
+    "free_running_latent_mse_to_mu": 0.8952674269676208,
+    "generation": "independent_mixture_sample"
+  },
+  {
+    "episode": "episode_00005.npz",
+    "seed": 100043,
+    "start": 10,
+    "horizon": 1,
+    "teacher_forced_nll": 40.101253509521484,
+    "free_running_latent_mse_to_mu": 0.6325733661651611,
+    "generation": "independent_mixture_sample"
+  },
+  {
+    "episode": "episode_00005.npz",
+    "seed": 100043,
+    "start": 10,
+    "horizon": 5,
+    "teacher_forced_nll": 35.62509536743164,
+    "free_running_latent_mse_to_mu": 0.922039270401001,
+    "generation": "independent_mixture_sample"
+  },
+  {
+    "episode": "episode_00005.npz",
+    "seed": 100043,
+    "start": 10,
+    "horizon": 10,
+    "teacher_forced_nll": 32.709022521972656,
+    "free_running_latent_mse_to_mu": 0.8100555539131165,
+    "generation": "independent_mixture_sample"
+  },
+  {
+    "episode": "episode_00005.npz",
+    "seed": 100043,
+    "start": 10,
+    "horizon": 20,
+    "teacher_forced_nll": 32.834617614746094,
+    "free_running_latent_mse_to_mu": 0.9466017484664917,
+    "generation": "independent_mixture_sample"
+  },
+  {
+    "episode": "episode_00005.npz",
+    "seed": 100044,
+    "start": 10,
+    "horizon": 1,
+    "teacher_forced_nll": 36.893653869628906,
+    "free_running_latent_mse_to_mu": 0.7207276225090027,
+    "generation": "independent_mixture_sample"
+  },
+  {
+    "episode": "episode_00005.npz",
+    "seed": 100044,
+    "start": 10,
+    "horizon": 5,
+    "teacher_forced_nll": 35.15280532836914,
+    "free_running_latent_mse_to_mu": 0.7189003229141235,
+    "generation": "independent_mixture_sample"
+  },
+  {
+    "episode": "episode_00005.npz",
+    "seed": 100044,
+    "start": 10,
+    "horizon": 10,
+    "teacher_forced_nll": 33.021644592285156,
+    "free_running_latent_mse_to_mu": 1.4744369983673096,
+    "generation": "independent_mixture_sample"
+  },
+  {
+    "episode": "episode_00005.npz",
+    "seed": 100044,
+    "start": 10,
+    "horizon": 20,
+    "teacher_forced_nll": 32.98851776123047,
+    "free_running_latent_mse_to_mu": 1.2525105476379395,
+    "generation": "independent_mixture_sample"
+  },
+  {
+    "episode": "episode_00005.npz",
+    "seed": 100045,
+    "start": 10,
+    "horizon": 1,
+    "teacher_forced_nll": 33.92627716064453,
+    "free_running_latent_mse_to_mu": 0.8109051585197449,
+    "generation": "independent_mixture_sample"
+  },
+  {
+    "episode": "episode_00005.npz",
+    "seed": 100045,
+    "start": 10,
+    "horizon": 5,
+    "teacher_forced_nll": 30.741140365600586,
+    "free_running_latent_mse_to_mu": 0.9020769596099854,
+    "generation": "independent_mixture_sample"
+  },
+  {
+    "episode": "episode_00005.npz",
+    "seed": 100045,
+    "start": 10,
+    "horizon": 10,
+    "teacher_forced_nll": 31.975778579711914,
+    "free_running_latent_mse_to_mu": 0.847152829170227,
+    "generation": "independent_mixture_sample"
+  },
+  {
+    "episode": "episode_00005.npz",
+    "seed": 100045,
+    "start": 10,
+    "horizon": 20,
+    "teacher_forced_nll": 31.109481811523438,
+    "free_running_latent_mse_to_mu": 0.7673177719116211,
+    "generation": "independent_mixture_sample"
+  },
+  {
+    "episode": "episode_00005.npz",
+    "seed": 100046,
+    "start": 10,
+    "horizon": 1,
+    "teacher_forced_nll": 34.57010269165039,
+    "free_running_latent_mse_to_mu": 0.8696584105491638,
+    "generation": "independent_mixture_sample"
+  },
+  {
+    "episode": "episode_00005.npz",
+    "seed": 100046,
+    "start": 10,
+    "horizon": 5,
+    "teacher_forced_nll": 35.017616271972656,
+    "free_running_latent_mse_to_mu": 0.77830970287323,
+    "generation": "independent_mixture_sample"
+  },
+  {
+    "episode": "episode_00005.npz",
+    "seed": 100046,
+    "start": 10,
+    "horizon": 10,
+    "teacher_forced_nll": 33.529605865478516,
+    "free_running_latent_mse_to_mu": 1.1563291549682617,
+    "generation": "independent_mixture_sample"
+  },
+  {
+    "episode": "episode_00005.npz",
+    "seed": 100046,
+    "start": 10,
+    "horizon": 20,
+    "teacher_forced_nll": 32.98146438598633,
+    "free_running_latent_mse_to_mu": 1.1384161710739136,
+    "generation": "independent_mixture_sample"
+  },
+  {
+    "episode": "episode_00017.npz",
+    "seed": 100042,
+    "start": 10,
+    "horizon": 1,
+    "teacher_forced_nll": 31.491230010986328,
+    "free_running_latent_mse_to_mu": 0.625367283821106,
+    "generation": "independent_mixture_sample"
+  },
+  {
+    "episode": "episode_00017.npz",
+    "seed": 100042,
+    "start": 10,
+    "horizon": 5,
+    "teacher_forced_nll": 33.98052978515625,
+    "free_running_latent_mse_to_mu": 0.6032034158706665,
+    "generation": "independent_mixture_sample"
+  },
+  {
+    "episode": "episode_00017.npz",
+    "seed": 100042,
+    "start": 10,
+    "horizon": 10,
+    "teacher_forced_nll": 33.57421112060547,
+    "free_running_latent_mse_to_mu": 0.803546130657196,
+    "generation": "independent_mixture_sample"
+  },
+  {
+    "episode": "episode_00017.npz",
+    "seed": 100042,
+    "start": 10,
+    "horizon": 20,
+    "teacher_forced_nll": 32.874290466308594,
+    "free_running_latent_mse_to_mu": 0.8690382838249207,
+    "generation": "independent_mixture_sample"
+  },
+  {
+    "episode": "episode_00017.npz",
+    "seed": 100043,
+    "start": 10,
+    "horizon": 1,
+    "teacher_forced_nll": 37.51648712158203,
+    "free_running_latent_mse_to_mu": 0.6625813841819763,
+    "generation": "independent_mixture_sample"
+  },
+  {
+    "episode": "episode_00017.npz",
+    "seed": 100043,
+    "start": 10,
+    "horizon": 5,
+    "teacher_forced_nll": 34.604469299316406,
+    "free_running_latent_mse_to_mu": 0.8444695472717285,
+    "generation": "independent_mixture_sample"
+  },
+  {
+    "episode": "episode_00017.npz",
+    "seed": 100043,
+    "start": 10,
+    "horizon": 10,
+    "teacher_forced_nll": 33.5194206237793,
+    "free_running_latent_mse_to_mu": 0.5836728811264038,
+    "generation": "independent_mixture_sample"
+  },
+  {
+    "episode": "episode_00017.npz",
+    "seed": 100043,
+    "start": 10,
+    "horizon": 20,
+    "teacher_forced_nll": 33.900699615478516,
+    "free_running_latent_mse_to_mu": 0.7755654454231262,
+    "generation": "independent_mixture_sample"
+  },
+  {
+    "episode": "episode_00017.npz",
+    "seed": 100044,
+    "start": 10,
+    "horizon": 1,
+    "teacher_forced_nll": 34.18035888671875,
+    "free_running_latent_mse_to_mu": 0.6398133635520935,
+    "generation": "independent_mixture_sample"
+  },
+  {
+    "episode": "episode_00017.npz",
+    "seed": 100044,
+    "start": 10,
+    "horizon": 5,
+    "teacher_forced_nll": 36.60490798950195,
+    "free_running_latent_mse_to_mu": 0.5405299663543701,
+    "generation": "independent_mixture_sample"
+  },
+  {
+    "episode": "episode_00017.npz",
+    "seed": 100044,
+    "start": 10,
+    "horizon": 10,
+    "teacher_forced_nll": 34.419822692871094,
+    "free_running_latent_mse_to_mu": 1.0968574285507202,
+    "generation": "independent_mixture_sample"
+  },
+  {
+    "episode": "episode_00017.npz",
+    "seed": 100044,
+    "start": 10,
+    "horizon": 20,
+    "teacher_forced_nll": 34.842506408691406,
+    "free_running_latent_mse_to_mu": 1.17208731174469,
+    "generation": "independent_mixture_sample"
+  },
+  {
+    "episode": "episode_00017.npz",
+    "seed": 100045,
+    "start": 10,
+    "horizon": 1,
+    "teacher_forced_nll": 32.5076904296875,
+    "free_running_latent_mse_to_mu": 0.8216972351074219,
+    "generation": "independent_mixture_sample"
+  },
+  {
+    "episode": "episode_00017.npz",
+    "seed": 100045,
+    "start": 10,
+    "horizon": 5,
+    "teacher_forced_nll": 32.491859436035156,
+    "free_running_latent_mse_to_mu": 0.830025315284729,
+    "generation": "independent_mixture_sample"
+  },
+  {
+    "episode": "episode_00017.npz",
+    "seed": 100045,
+    "start": 10,
+    "horizon": 10,
+    "teacher_forced_nll": 33.169708251953125,
+    "free_running_latent_mse_to_mu": 0.7714396715164185,
+    "generation": "independent_mixture_sample"
+  },
+  {
+    "episode": "episode_00017.npz",
+    "seed": 100045,
+    "start": 10,
+    "horizon": 20,
+    "teacher_forced_nll": 32.78120040893555,
+    "free_running_latent_mse_to_mu": 0.9285264611244202,
+    "generation": "independent_mixture_sample"
+  },
+  {
+    "episode": "episode_00017.npz",
+    "seed": 100046,
+    "start": 10,
+    "horizon": 1,
+    "teacher_forced_nll": 34.298248291015625,
+    "free_running_latent_mse_to_mu": 0.6379624009132385,
+    "generation": "independent_mixture_sample"
+  },
+  {
+    "episode": "episode_00017.npz",
+    "seed": 100046,
+    "start": 10,
+    "horizon": 5,
+    "teacher_forced_nll": 35.34601593017578,
+    "free_running_latent_mse_to_mu": 0.535986065864563,
+    "generation": "independent_mixture_sample"
+  },
+  {
+    "episode": "episode_00017.npz",
+    "seed": 100046,
+    "start": 10,
+    "horizon": 10,
+    "teacher_forced_nll": 35.07929992675781,
+    "free_running_latent_mse_to_mu": 0.7435394525527954,
+    "generation": "independent_mixture_sample"
+  },
+  {
+    "episode": "episode_00017.npz",
+    "seed": 100046,
+    "start": 10,
+    "horizon": 20,
+    "teacher_forced_nll": 34.93214797973633,
+    "free_running_latent_mse_to_mu": 0.9721558690071106,
+    "generation": "independent_mixture_sample"
+  },
+  {
+    "episode": "episode_00020.npz",
+    "seed": 100042,
+    "start": 10,
+    "horizon": 1,
+    "teacher_forced_nll": 31.439552307128906,
+    "free_running_latent_mse_to_mu": 0.6593208909034729,
+    "generation": "independent_mixture_sample"
+  },
+  {
+    "episode": "episode_00020.npz",
+    "seed": 100042,
+    "start": 10,
+    "horizon": 5,
+    "teacher_forced_nll": 32.70396041870117,
+    "free_running_latent_mse_to_mu": 0.6519214510917664,
+    "generation": "independent_mixture_sample"
+  },
+  {
+    "episode": "episode_00020.npz",
+    "seed": 100042,
+    "start": 10,
+    "horizon": 10,
+    "teacher_forced_nll": 32.05827713012695,
+    "free_running_latent_mse_to_mu": 0.7335475087165833,
+    "generation": "independent_mixture_sample"
+  },
+  {
+    "episode": "episode_00020.npz",
+    "seed": 100042,
+    "start": 10,
+    "horizon": 20,
+    "teacher_forced_nll": 32.27992630004883,
+    "free_running_latent_mse_to_mu": 0.8668006062507629,
+    "generation": "independent_mixture_sample"
+  },
+  {
+    "episode": "episode_00020.npz",
+    "seed": 100043,
+    "start": 10,
+    "horizon": 1,
+    "teacher_forced_nll": 38.575531005859375,
+    "free_running_latent_mse_to_mu": 0.6371790170669556,
+    "generation": "independent_mixture_sample"
+  },
+  {
+    "episode": "episode_00020.npz",
+    "seed": 100043,
+    "start": 10,
+    "horizon": 5,
+    "teacher_forced_nll": 35.493099212646484,
+    "free_running_latent_mse_to_mu": 0.8296236991882324,
+    "generation": "independent_mixture_sample"
+  },
+  {
+    "episode": "episode_00020.npz",
+    "seed": 100043,
+    "start": 10,
+    "horizon": 10,
+    "teacher_forced_nll": 33.818115234375,
+    "free_running_latent_mse_to_mu": 0.5496813654899597,
+    "generation": "independent_mixture_sample"
+  },
+  {
+    "episode": "episode_00020.npz",
+    "seed": 100043,
+    "start": 10,
+    "horizon": 20,
+    "teacher_forced_nll": 33.65348434448242,
+    "free_running_latent_mse_to_mu": 0.9934171438217163,
+    "generation": "independent_mixture_sample"
+  },
+  {
+    "episode": "episode_00020.npz",
+    "seed": 100044,
+    "start": 10,
+    "horizon": 1,
+    "teacher_forced_nll": 37.1846923828125,
+    "free_running_latent_mse_to_mu": 0.7510558366775513,
+    "generation": "independent_mixture_sample"
+  },
+  {
+    "episode": "episode_00020.npz",
+    "seed": 100044,
+    "start": 10,
+    "horizon": 5,
+    "teacher_forced_nll": 35.382205963134766,
+    "free_running_latent_mse_to_mu": 0.7429434061050415,
+    "generation": "independent_mixture_sample"
+  },
+  {
+    "episode": "episode_00020.npz",
+    "seed": 100044,
+    "start": 10,
+    "horizon": 10,
+    "teacher_forced_nll": 33.254966735839844,
+    "free_running_latent_mse_to_mu": 1.0503932237625122,
+    "generation": "independent_mixture_sample"
+  },
+  {
+    "episode": "episode_00020.npz",
+    "seed": 100044,
+    "start": 10,
+    "horizon": 20,
+    "teacher_forced_nll": 33.79984664916992,
+    "free_running_latent_mse_to_mu": 1.5453872680664062,
+    "generation": "independent_mixture_sample"
+  },
+  {
+    "episode": "episode_00020.npz",
+    "seed": 100045,
+    "start": 10,
+    "horizon": 1,
+    "teacher_forced_nll": 36.01988220214844,
+    "free_running_latent_mse_to_mu": 0.8463510870933533,
+    "generation": "independent_mixture_sample"
+  },
+  {
+    "episode": "episode_00020.npz",
+    "seed": 100045,
+    "start": 10,
+    "horizon": 5,
+    "teacher_forced_nll": 31.66650390625,
+    "free_running_latent_mse_to_mu": 1.0907416343688965,
+    "generation": "independent_mixture_sample"
+  },
+  {
+    "episode": "episode_00020.npz",
+    "seed": 100045,
+    "start": 10,
+    "horizon": 10,
+    "teacher_forced_nll": 32.33576583862305,
+    "free_running_latent_mse_to_mu": 0.8029055595397949,
+    "generation": "independent_mixture_sample"
+  },
+  {
+    "episode": "episode_00020.npz",
+    "seed": 100045,
+    "start": 10,
+    "horizon": 20,
+    "teacher_forced_nll": 32.24584197998047,
+    "free_running_latent_mse_to_mu": 0.8982389569282532,
+    "generation": "independent_mixture_sample"
+  },
+  {
+    "episode": "episode_00020.npz",
+    "seed": 100046,
+    "start": 10,
+    "horizon": 1,
+    "teacher_forced_nll": 35.896610260009766,
+    "free_running_latent_mse_to_mu": 0.8881145119667053,
+    "generation": "independent_mixture_sample"
+  },
+  {
+    "episode": "episode_00020.npz",
+    "seed": 100046,
+    "start": 10,
+    "horizon": 5,
+    "teacher_forced_nll": 35.457740783691406,
+    "free_running_latent_mse_to_mu": 0.6512261033058167,
+    "generation": "independent_mixture_sample"
+  },
+  {
+    "episode": "episode_00020.npz",
+    "seed": 100046,
+    "start": 10,
+    "horizon": 10,
+    "teacher_forced_nll": 34.17622756958008,
+    "free_running_latent_mse_to_mu": 0.8141812086105347,
+    "generation": "independent_mixture_sample"
+  },
+  {
+    "episode": "episode_00020.npz",
+    "seed": 100046,
+    "start": 10,
+    "horizon": 20,
+    "teacher_forced_nll": 34.09861373901367,
+    "free_running_latent_mse_to_mu": 1.2591525316238403,
+    "generation": "independent_mixture_sample"
+  },
+  {
+    "episode": "episode_00025.npz",
+    "seed": 100042,
+    "start": 10,
+    "horizon": 1,
+    "teacher_forced_nll": 32.33547592163086,
+    "free_running_latent_mse_to_mu": 0.6335890293121338,
+    "generation": "independent_mixture_sample"
+  },
+  {
+    "episode": "episode_00025.npz",
+    "seed": 100042,
+    "start": 10,
+    "horizon": 5,
+    "teacher_forced_nll": 34.044334411621094,
+    "free_running_latent_mse_to_mu": 0.5778759717941284,
+    "generation": "independent_mixture_sample"
+  },
+  {
+    "episode": "episode_00025.npz",
+    "seed": 100042,
+    "start": 10,
+    "horizon": 10,
+    "teacher_forced_nll": 33.52351379394531,
+    "free_running_latent_mse_to_mu": 0.7144439816474915,
+    "generation": "independent_mixture_sample"
+  },
+  {
+    "episode": "episode_00025.npz",
+    "seed": 100042,
+    "start": 10,
+    "horizon": 20,
+    "teacher_forced_nll": 33.05170822143555,
+    "free_running_latent_mse_to_mu": 0.8428923487663269,
+    "generation": "independent_mixture_sample"
+  },
+  {
+    "episode": "episode_00025.npz",
+    "seed": 100043,
+    "start": 10,
+    "horizon": 1,
+    "teacher_forced_nll": 40.497127532958984,
+    "free_running_latent_mse_to_mu": 0.6824683547019958,
+    "generation": "independent_mixture_sample"
+  },
+  {
+    "episode": "episode_00025.npz",
+    "seed": 100043,
+    "start": 10,
+    "horizon": 5,
+    "teacher_forced_nll": 34.70905685424805,
+    "free_running_latent_mse_to_mu": 0.8163158893585205,
+    "generation": "independent_mixture_sample"
+  },
+  {
+    "episode": "episode_00025.npz",
+    "seed": 100043,
+    "start": 10,
+    "horizon": 10,
+    "teacher_forced_nll": 33.765663146972656,
+    "free_running_latent_mse_to_mu": 0.6760810613632202,
+    "generation": "independent_mixture_sample"
+  },
+  {
+    "episode": "episode_00025.npz",
+    "seed": 100043,
+    "start": 10,
+    "horizon": 20,
+    "teacher_forced_nll": 33.63794708251953,
+    "free_running_latent_mse_to_mu": 0.6205678582191467,
+    "generation": "independent_mixture_sample"
+  },
+  {
+    "episode": "episode_00025.npz",
+    "seed": 100044,
+    "start": 10,
+    "horizon": 1,
+    "teacher_forced_nll": 38.74156951904297,
+    "free_running_latent_mse_to_mu": 0.6340270638465881,
+    "generation": "independent_mixture_sample"
+  },
+  {
+    "episode": "episode_00025.npz",
+    "seed": 100044,
+    "start": 10,
+    "horizon": 5,
+    "teacher_forced_nll": 36.81834411621094,
+    "free_running_latent_mse_to_mu": 0.5347608923912048,
+    "generation": "independent_mixture_sample"
+  },
+  {
+    "episode": "episode_00025.npz",
+    "seed": 100044,
+    "start": 10,
+    "horizon": 10,
+    "teacher_forced_nll": 34.454776763916016,
+    "free_running_latent_mse_to_mu": 1.1179972887039185,
+    "generation": "independent_mixture_sample"
+  },
+  {
+    "episode": "episode_00025.npz",
+    "seed": 100044,
+    "start": 10,
+    "horizon": 20,
+    "teacher_forced_nll": 34.35530090332031,
+    "free_running_latent_mse_to_mu": 1.3628259897232056,
+    "generation": "independent_mixture_sample"
+  },
+  {
+    "episode": "episode_00025.npz",
+    "seed": 100045,
+    "start": 10,
+    "horizon": 1,
+    "teacher_forced_nll": 33.83033752441406,
+    "free_running_latent_mse_to_mu": 0.9574211835861206,
+    "generation": "independent_mixture_sample"
+  },
+  {
+    "episode": "episode_00025.npz",
+    "seed": 100045,
+    "start": 10,
+    "horizon": 5,
+    "teacher_forced_nll": 32.56214141845703,
+    "free_running_latent_mse_to_mu": 0.8346746563911438,
+    "generation": "independent_mixture_sample"
+  },
+  {
+    "episode": "episode_00025.npz",
+    "seed": 100045,
+    "start": 10,
+    "horizon": 10,
+    "teacher_forced_nll": 33.37211227416992,
+    "free_running_latent_mse_to_mu": 0.7593778371810913,
+    "generation": "independent_mixture_sample"
+  },
+  {
+    "episode": "episode_00025.npz",
+    "seed": 100045,
+    "start": 10,
+    "horizon": 20,
+    "teacher_forced_nll": 33.028709411621094,
+    "free_running_latent_mse_to_mu": 0.9097548723220825,
+    "generation": "independent_mixture_sample"
+  },
+  {
+    "episode": "episode_00025.npz",
+    "seed": 100046,
+    "start": 10,
+    "horizon": 1,
+    "teacher_forced_nll": 36.31925582885742,
+    "free_running_latent_mse_to_mu": 0.6851400136947632,
+    "generation": "independent_mixture_sample"
+  },
+  {
+    "episode": "episode_00025.npz",
+    "seed": 100046,
+    "start": 10,
+    "horizon": 5,
+    "teacher_forced_nll": 34.966556549072266,
+    "free_running_latent_mse_to_mu": 0.5082894563674927,
+    "generation": "independent_mixture_sample"
+  },
+  {
+    "episode": "episode_00025.npz",
+    "seed": 100046,
+    "start": 10,
+    "horizon": 10,
+    "teacher_forced_nll": 35.309776306152344,
+    "free_running_latent_mse_to_mu": 0.7482459545135498,
+    "generation": "independent_mixture_sample"
+  },
+  {
+    "episode": "episode_00025.npz",
+    "seed": 100046,
+    "start": 10,
+    "horizon": 20,
+    "teacher_forced_nll": 34.67867660522461,
+    "free_running_latent_mse_to_mu": 0.7963012456893921,
+    "generation": "independent_mixture_sample"
+  },
+  {
+    "episode": "episode_00027.npz",
+    "seed": 100042,
+    "start": 10,
+    "horizon": 1,
+    "teacher_forced_nll": 31.784515380859375,
+    "free_running_latent_mse_to_mu": 0.6022766828536987,
+    "generation": "independent_mixture_sample"
+  },
+  {
+    "episode": "episode_00027.npz",
+    "seed": 100042,
+    "start": 10,
+    "horizon": 5,
+    "teacher_forced_nll": 34.231597900390625,
+    "free_running_latent_mse_to_mu": 0.5525525808334351,
+    "generation": "independent_mixture_sample"
+  },
+  {
+    "episode": "episode_00027.npz",
+    "seed": 100042,
+    "start": 10,
+    "horizon": 10,
+    "teacher_forced_nll": 34.24862289428711,
+    "free_running_latent_mse_to_mu": 0.7809602618217468,
+    "generation": "independent_mixture_sample"
+  },
+  {
+    "episode": "episode_00027.npz",
+    "seed": 100042,
+    "start": 10,
+    "horizon": 20,
+    "teacher_forced_nll": 33.51191329956055,
+    "free_running_latent_mse_to_mu": 1.020809531211853,
+    "generation": "independent_mixture_sample"
+  },
+  {
+    "episode": "episode_00027.npz",
+    "seed": 100043,
+    "start": 10,
+    "horizon": 1,
+    "teacher_forced_nll": 37.91579818725586,
+    "free_running_latent_mse_to_mu": 0.6841073036193848,
+    "generation": "independent_mixture_sample"
+  },
+  {
+    "episode": "episode_00027.npz",
+    "seed": 100043,
+    "start": 10,
+    "horizon": 5,
+    "teacher_forced_nll": 34.858001708984375,
+    "free_running_latent_mse_to_mu": 0.8381360769271851,
+    "generation": "independent_mixture_sample"
+  },
+  {
+    "episode": "episode_00027.npz",
+    "seed": 100043,
+    "start": 10,
+    "horizon": 10,
+    "teacher_forced_nll": 33.587730407714844,
+    "free_running_latent_mse_to_mu": 0.6738272905349731,
+    "generation": "independent_mixture_sample"
+  },
+  {
+    "episode": "episode_00027.npz",
+    "seed": 100043,
+    "start": 10,
+    "horizon": 20,
+    "teacher_forced_nll": 34.21741485595703,
+    "free_running_latent_mse_to_mu": 0.6927247047424316,
+    "generation": "independent_mixture_sample"
+  },
+  {
+    "episode": "episode_00027.npz",
+    "seed": 100044,
+    "start": 10,
+    "horizon": 1,
+    "teacher_forced_nll": 33.553680419921875,
+    "free_running_latent_mse_to_mu": 0.6624492406845093,
+    "generation": "independent_mixture_sample"
+  },
+  {
+    "episode": "episode_00027.npz",
+    "seed": 100044,
+    "start": 10,
+    "horizon": 5,
+    "teacher_forced_nll": 35.04237747192383,
+    "free_running_latent_mse_to_mu": 0.5391932129859924,
+    "generation": "independent_mixture_sample"
+  },
+  {
+    "episode": "episode_00027.npz",
+    "seed": 100044,
+    "start": 10,
+    "horizon": 10,
+    "teacher_forced_nll": 34.219017028808594,
+    "free_running_latent_mse_to_mu": 1.1203510761260986,
+    "generation": "independent_mixture_sample"
+  },
+  {
+    "episode": "episode_00027.npz",
+    "seed": 100044,
+    "start": 10,
+    "horizon": 20,
+    "teacher_forced_nll": 34.65282440185547,
+    "free_running_latent_mse_to_mu": 1.0360525846481323,
+    "generation": "independent_mixture_sample"
+  },
+  {
+    "episode": "episode_00027.npz",
+    "seed": 100045,
+    "start": 10,
+    "horizon": 1,
+    "teacher_forced_nll": 30.59507179260254,
+    "free_running_latent_mse_to_mu": 0.7890043258666992,
+    "generation": "independent_mixture_sample"
+  },
+  {
+    "episode": "episode_00027.npz",
+    "seed": 100045,
+    "start": 10,
+    "horizon": 5,
+    "teacher_forced_nll": 32.424713134765625,
+    "free_running_latent_mse_to_mu": 0.7841531038284302,
+    "generation": "independent_mixture_sample"
+  },
+  {
+    "episode": "episode_00027.npz",
+    "seed": 100045,
+    "start": 10,
+    "horizon": 10,
+    "teacher_forced_nll": 33.720794677734375,
+    "free_running_latent_mse_to_mu": 0.6961004137992859,
+    "generation": "independent_mixture_sample"
+  },
+  {
+    "episode": "episode_00027.npz",
+    "seed": 100045,
+    "start": 10,
+    "horizon": 20,
+    "teacher_forced_nll": 33.486083984375,
+    "free_running_latent_mse_to_mu": 0.9022846221923828,
+    "generation": "independent_mixture_sample"
+  },
+  {
+    "episode": "episode_00027.npz",
+    "seed": 100046,
+    "start": 10,
+    "horizon": 1,
+    "teacher_forced_nll": 33.969390869140625,
+    "free_running_latent_mse_to_mu": 0.643174409866333,
+    "generation": "independent_mixture_sample"
+  },
+  {
+    "episode": "episode_00027.npz",
+    "seed": 100046,
+    "start": 10,
+    "horizon": 5,
+    "teacher_forced_nll": 34.96795654296875,
+    "free_running_latent_mse_to_mu": 0.6397727727890015,
+    "generation": "independent_mixture_sample"
+  },
+  {
+    "episode": "episode_00027.npz",
+    "seed": 100046,
+    "start": 10,
+    "horizon": 10,
+    "teacher_forced_nll": 34.856468200683594,
+    "free_running_latent_mse_to_mu": 0.8221229314804077,
+    "generation": "independent_mixture_sample"
+  },
+  {
+    "episode": "episode_00027.npz",
+    "seed": 100046,
+    "start": 10,
+    "horizon": 20,
+    "teacher_forced_nll": 34.73854446411133,
+    "free_running_latent_mse_to_mu": 0.6826247572898865,
+    "generation": "independent_mixture_sample"
+  },
+  {
+    "episode": "episode_00039.npz",
+    "seed": 100042,
+    "start": 10,
+    "horizon": 1,
+    "teacher_forced_nll": 31.88545036315918,
+    "free_running_latent_mse_to_mu": 0.6264470219612122,
+    "generation": "independent_mixture_sample"
+  },
+  {
+    "episode": "episode_00039.npz",
+    "seed": 100042,
+    "start": 10,
+    "horizon": 5,
+    "teacher_forced_nll": 33.8810920715332,
+    "free_running_latent_mse_to_mu": 0.5676188468933105,
+    "generation": "independent_mixture_sample"
+  },
+  {
+    "episode": "episode_00039.npz",
+    "seed": 100042,
+    "start": 10,
+    "horizon": 10,
+    "teacher_forced_nll": 33.93118667602539,
+    "free_running_latent_mse_to_mu": 0.7743895053863525,
+    "generation": "independent_mixture_sample"
+  },
+  {
+    "episode": "episode_00039.npz",
+    "seed": 100042,
+    "start": 10,
+    "horizon": 20,
+    "teacher_forced_nll": 33.642051696777344,
+    "free_running_latent_mse_to_mu": 0.8638293743133545,
+    "generation": "independent_mixture_sample"
+  },
+  {
+    "episode": "episode_00039.npz",
+    "seed": 100043,
+    "start": 10,
+    "horizon": 1,
+    "teacher_forced_nll": 36.64393997192383,
+    "free_running_latent_mse_to_mu": 0.6967493295669556,
+    "generation": "independent_mixture_sample"
+  },
+  {
+    "episode": "episode_00039.npz",
+    "seed": 100043,
+    "start": 10,
+    "horizon": 5,
+    "teacher_forced_nll": 34.616661071777344,
+    "free_running_latent_mse_to_mu": 0.8623681664466858,
+    "generation": "independent_mixture_sample"
+  },
+  {
+    "episode": "episode_00039.npz",
+    "seed": 100043,
+    "start": 10,
+    "horizon": 10,
+    "teacher_forced_nll": 33.63480758666992,
+    "free_running_latent_mse_to_mu": 0.6349039077758789,
+    "generation": "independent_mixture_sample"
+  },
+  {
+    "episode": "episode_00039.npz",
+    "seed": 100043,
+    "start": 10,
+    "horizon": 20,
+    "teacher_forced_nll": 33.88283920288086,
+    "free_running_latent_mse_to_mu": 0.8006134629249573,
+    "generation": "independent_mixture_sample"
+  },
+  {
+    "episode": "episode_00039.npz",
+    "seed": 100044,
+    "start": 10,
+    "horizon": 1,
+    "teacher_forced_nll": 34.2892951965332,
+    "free_running_latent_mse_to_mu": 0.6915971636772156,
+    "generation": "independent_mixture_sample"
+  },
+  {
+    "episode": "episode_00039.npz",
+    "seed": 100044,
+    "start": 10,
+    "horizon": 5,
+    "teacher_forced_nll": 35.194786071777344,
+    "free_running_latent_mse_to_mu": 0.52535080909729,
+    "generation": "independent_mixture_sample"
+  },
+  {
+    "episode": "episode_00039.npz",
+    "seed": 100044,
+    "start": 10,
+    "horizon": 10,
+    "teacher_forced_nll": 34.129905700683594,
+    "free_running_latent_mse_to_mu": 1.167688012123108,
+    "generation": "independent_mixture_sample"
+  },
+  {
+    "episode": "episode_00039.npz",
+    "seed": 100044,
+    "start": 10,
+    "horizon": 20,
+    "teacher_forced_nll": 34.651248931884766,
+    "free_running_latent_mse_to_mu": 1.226945400238037,
+    "generation": "independent_mixture_sample"
+  },
+  {
+    "episode": "episode_00039.npz",
+    "seed": 100045,
+    "start": 10,
+    "horizon": 1,
+    "teacher_forced_nll": 32.10035705566406,
+    "free_running_latent_mse_to_mu": 0.8321349620819092,
+    "generation": "independent_mixture_sample"
+  },
+  {
+    "episode": "episode_00039.npz",
+    "seed": 100045,
+    "start": 10,
+    "horizon": 5,
+    "teacher_forced_nll": 32.396751403808594,
+    "free_running_latent_mse_to_mu": 0.7953822612762451,
+    "generation": "independent_mixture_sample"
+  },
+  {
+    "episode": "episode_00039.npz",
+    "seed": 100045,
+    "start": 10,
+    "horizon": 10,
+    "teacher_forced_nll": 33.63677215576172,
+    "free_running_latent_mse_to_mu": 0.7217110395431519,
+    "generation": "independent_mixture_sample"
+  },
+  {
+    "episode": "episode_00039.npz",
+    "seed": 100045,
+    "start": 10,
+    "horizon": 20,
+    "teacher_forced_nll": 33.36216354370117,
+    "free_running_latent_mse_to_mu": 0.935849130153656,
+    "generation": "independent_mixture_sample"
+  },
+  {
+    "episode": "episode_00039.npz",
+    "seed": 100046,
+    "start": 10,
+    "horizon": 1,
+    "teacher_forced_nll": 34.86714553833008,
+    "free_running_latent_mse_to_mu": 0.6533236503601074,
+    "generation": "independent_mixture_sample"
+  },
+  {
+    "episode": "episode_00039.npz",
+    "seed": 100046,
+    "start": 10,
+    "horizon": 5,
+    "teacher_forced_nll": 36.258087158203125,
+    "free_running_latent_mse_to_mu": 0.6018070578575134,
+    "generation": "independent_mixture_sample"
+  },
+  {
+    "episode": "episode_00039.npz",
+    "seed": 100046,
+    "start": 10,
+    "horizon": 10,
+    "teacher_forced_nll": 35.789459228515625,
+    "free_running_latent_mse_to_mu": 0.8639827966690063,
+    "generation": "independent_mixture_sample"
+  },
+  {
+    "episode": "episode_00039.npz",
+    "seed": 100046,
+    "start": 10,
+    "horizon": 20,
+    "teacher_forced_nll": 35.283668518066406,
+    "free_running_latent_mse_to_mu": 0.9736912846565247,
+    "generation": "independent_mixture_sample"
+  },
+  {
+    "episode": "episode_00045.npz",
+    "seed": 100042,
+    "start": 10,
+    "horizon": 1,
+    "teacher_forced_nll": 32.047542572021484,
+    "free_running_latent_mse_to_mu": 0.6328777074813843,
+    "generation": "independent_mixture_sample"
+  },
+  {
+    "episode": "episode_00045.npz",
+    "seed": 100042,
+    "start": 10,
+    "horizon": 5,
+    "teacher_forced_nll": 33.178199768066406,
+    "free_running_latent_mse_to_mu": 0.6150637865066528,
+    "generation": "independent_mixture_sample"
+  },
+  {
+    "episode": "episode_00045.npz",
+    "seed": 100042,
+    "start": 10,
+    "horizon": 10,
+    "teacher_forced_nll": 33.120018005371094,
+    "free_running_latent_mse_to_mu": 0.8155243992805481,
+    "generation": "independent_mixture_sample"
+  },
+  {
+    "episode": "episode_00045.npz",
+    "seed": 100042,
+    "start": 10,
+    "horizon": 20,
+    "teacher_forced_nll": 33.00768280029297,
+    "free_running_latent_mse_to_mu": 0.8874779939651489,
+    "generation": "independent_mixture_sample"
+  },
+  {
+    "episode": "episode_00045.npz",
+    "seed": 100043,
+    "start": 10,
+    "horizon": 1,
+    "teacher_forced_nll": 35.72572708129883,
+    "free_running_latent_mse_to_mu": 0.6648690104484558,
+    "generation": "independent_mixture_sample"
+  },
+  {
+    "episode": "episode_00045.npz",
+    "seed": 100043,
+    "start": 10,
+    "horizon": 5,
+    "teacher_forced_nll": 34.44281768798828,
+    "free_running_latent_mse_to_mu": 0.8075106739997864,
+    "generation": "independent_mixture_sample"
+  },
+  {
+    "episode": "episode_00045.npz",
+    "seed": 100043,
+    "start": 10,
+    "horizon": 10,
+    "teacher_forced_nll": 33.277244567871094,
+    "free_running_latent_mse_to_mu": 0.5462945103645325,
+    "generation": "independent_mixture_sample"
+  },
+  {
+    "episode": "episode_00045.npz",
+    "seed": 100043,
+    "start": 10,
+    "horizon": 20,
+    "teacher_forced_nll": 33.90671920776367,
+    "free_running_latent_mse_to_mu": 0.7221367359161377,
+    "generation": "independent_mixture_sample"
+  },
+  {
+    "episode": "episode_00045.npz",
+    "seed": 100044,
+    "start": 10,
+    "horizon": 1,
+    "teacher_forced_nll": 34.372352600097656,
+    "free_running_latent_mse_to_mu": 0.6372480988502502,
+    "generation": "independent_mixture_sample"
+  },
+  {
+    "episode": "episode_00045.npz",
+    "seed": 100044,
+    "start": 10,
+    "horizon": 5,
+    "teacher_forced_nll": 35.78267288208008,
+    "free_running_latent_mse_to_mu": 0.5801694989204407,
+    "generation": "independent_mixture_sample"
+  },
+  {
+    "episode": "episode_00045.npz",
+    "seed": 100044,
+    "start": 10,
+    "horizon": 10,
+    "teacher_forced_nll": 33.95319366455078,
+    "free_running_latent_mse_to_mu": 1.1477816104888916,
+    "generation": "independent_mixture_sample"
+  },
+  {
+    "episode": "episode_00045.npz",
+    "seed": 100044,
+    "start": 10,
+    "horizon": 20,
+    "teacher_forced_nll": 34.447731018066406,
+    "free_running_latent_mse_to_mu": 1.2210432291030884,
+    "generation": "independent_mixture_sample"
+  },
+  {
+    "episode": "episode_00045.npz",
+    "seed": 100045,
+    "start": 10,
+    "horizon": 1,
+    "teacher_forced_nll": 32.31159210205078,
+    "free_running_latent_mse_to_mu": 0.8066601753234863,
+    "generation": "independent_mixture_sample"
+  },
+  {
+    "episode": "episode_00045.npz",
+    "seed": 100045,
+    "start": 10,
+    "horizon": 5,
+    "teacher_forced_nll": 32.71133804321289,
+    "free_running_latent_mse_to_mu": 0.7906511425971985,
+    "generation": "independent_mixture_sample"
+  },
+  {
+    "episode": "episode_00045.npz",
+    "seed": 100045,
+    "start": 10,
+    "horizon": 10,
+    "teacher_forced_nll": 34.03371810913086,
+    "free_running_latent_mse_to_mu": 0.6817967891693115,
+    "generation": "independent_mixture_sample"
+  },
+  {
+    "episode": "episode_00045.npz",
+    "seed": 100045,
+    "start": 10,
+    "horizon": 20,
+    "teacher_forced_nll": 33.58656311035156,
+    "free_running_latent_mse_to_mu": 0.8859587907791138,
+    "generation": "independent_mixture_sample"
+  },
+  {
+    "episode": "episode_00045.npz",
+    "seed": 100046,
+    "start": 10,
+    "horizon": 1,
+    "teacher_forced_nll": 33.965484619140625,
+    "free_running_latent_mse_to_mu": 0.6673771142959595,
+    "generation": "independent_mixture_sample"
+  },
+  {
+    "episode": "episode_00045.npz",
+    "seed": 100046,
+    "start": 10,
+    "horizon": 5,
+    "teacher_forced_nll": 35.340240478515625,
+    "free_running_latent_mse_to_mu": 0.5576032400131226,
+    "generation": "independent_mixture_sample"
+  },
+  {
+    "episode": "episode_00045.npz",
+    "seed": 100046,
+    "start": 10,
+    "horizon": 10,
+    "teacher_forced_nll": 35.35548400878906,
+    "free_running_latent_mse_to_mu": 0.7729837894439697,
+    "generation": "independent_mixture_sample"
+  },
+  {
+    "episode": "episode_00045.npz",
+    "seed": 100046,
+    "start": 10,
+    "horizon": 20,
+    "teacher_forced_nll": 34.80821990966797,
+    "free_running_latent_mse_to_mu": 0.7155863046646118,
+    "generation": "independent_mixture_sample"
+  },
+  {
+    "episode": "episode_00046.npz",
+    "seed": 100042,
+    "start": 10,
+    "horizon": 1,
+    "teacher_forced_nll": 31.613317489624023,
+    "free_running_latent_mse_to_mu": 0.6266686320304871,
+    "generation": "independent_mixture_sample"
+  },
+  {
+    "episode": "episode_00046.npz",
+    "seed": 100042,
+    "start": 10,
+    "horizon": 5,
+    "teacher_forced_nll": 34.485252380371094,
+    "free_running_latent_mse_to_mu": 0.6023733615875244,
+    "generation": "independent_mixture_sample"
+  },
+  {
+    "episode": "episode_00046.npz",
+    "seed": 100042,
+    "start": 10,
+    "horizon": 10,
+    "teacher_forced_nll": 34.67621612548828,
+    "free_running_latent_mse_to_mu": 0.7668158411979675,
+    "generation": "independent_mixture_sample"
+  },
+  {
+    "episode": "episode_00046.npz",
+    "seed": 100042,
+    "start": 10,
+    "horizon": 20,
+    "teacher_forced_nll": 33.899715423583984,
+    "free_running_latent_mse_to_mu": 0.7686432003974915,
+    "generation": "independent_mixture_sample"
+  },
+  {
+    "episode": "episode_00046.npz",
+    "seed": 100043,
+    "start": 10,
+    "horizon": 1,
+    "teacher_forced_nll": 35.84496307373047,
+    "free_running_latent_mse_to_mu": 0.6744325757026672,
+    "generation": "independent_mixture_sample"
+  },
+  {
+    "episode": "episode_00046.npz",
+    "seed": 100043,
+    "start": 10,
+    "horizon": 5,
+    "teacher_forced_nll": 34.320945739746094,
+    "free_running_latent_mse_to_mu": 0.8893841505050659,
+    "generation": "independent_mixture_sample"
+  },
+  {
+    "episode": "episode_00046.npz",
+    "seed": 100043,
+    "start": 10,
+    "horizon": 10,
+    "teacher_forced_nll": 34.02170181274414,
+    "free_running_latent_mse_to_mu": 0.6634262800216675,
+    "generation": "independent_mixture_sample"
+  },
+  {
+    "episode": "episode_00046.npz",
+    "seed": 100043,
+    "start": 10,
+    "horizon": 20,
+    "teacher_forced_nll": 34.20777130126953,
+    "free_running_latent_mse_to_mu": 0.6844871640205383,
+    "generation": "independent_mixture_sample"
+  },
+  {
+    "episode": "episode_00046.npz",
+    "seed": 100044,
+    "start": 10,
+    "horizon": 1,
+    "teacher_forced_nll": 34.74134063720703,
+    "free_running_latent_mse_to_mu": 0.6662197709083557,
+    "generation": "independent_mixture_sample"
+  },
+  {
+    "episode": "episode_00046.npz",
+    "seed": 100044,
+    "start": 10,
+    "horizon": 5,
+    "teacher_forced_nll": 36.73136520385742,
+    "free_running_latent_mse_to_mu": 0.5177778601646423,
+    "generation": "independent_mixture_sample"
+  },
+  {
+    "episode": "episode_00046.npz",
+    "seed": 100044,
+    "start": 10,
+    "horizon": 10,
+    "teacher_forced_nll": 35.402034759521484,
+    "free_running_latent_mse_to_mu": 1.140393614768982,
+    "generation": "independent_mixture_sample"
+  },
+  {
+    "episode": "episode_00046.npz",
+    "seed": 100044,
+    "start": 10,
+    "horizon": 20,
+    "teacher_forced_nll": 35.2805290222168,
+    "free_running_latent_mse_to_mu": 1.165553092956543,
+    "generation": "independent_mixture_sample"
+  },
+  {
+    "episode": "episode_00046.npz",
+    "seed": 100045,
+    "start": 10,
+    "horizon": 1,
+    "teacher_forced_nll": 31.869285583496094,
+    "free_running_latent_mse_to_mu": 0.8264832496643066,
+    "generation": "independent_mixture_sample"
+  },
+  {
+    "episode": "episode_00046.npz",
+    "seed": 100045,
+    "start": 10,
+    "horizon": 5,
+    "teacher_forced_nll": 32.360809326171875,
+    "free_running_latent_mse_to_mu": 0.8143572211265564,
+    "generation": "independent_mixture_sample"
+  },
+  {
+    "episode": "episode_00046.npz",
+    "seed": 100045,
+    "start": 10,
+    "horizon": 10,
+    "teacher_forced_nll": 34.034000396728516,
+    "free_running_latent_mse_to_mu": 0.7742659449577332,
+    "generation": "independent_mixture_sample"
+  },
+  {
+    "episode": "episode_00046.npz",
+    "seed": 100045,
+    "start": 10,
+    "horizon": 20,
+    "teacher_forced_nll": 33.53268051147461,
+    "free_running_latent_mse_to_mu": 0.927391529083252,
+    "generation": "independent_mixture_sample"
+  },
+  {
+    "episode": "episode_00046.npz",
+    "seed": 100046,
+    "start": 10,
+    "horizon": 1,
+    "teacher_forced_nll": 34.97951889038086,
+    "free_running_latent_mse_to_mu": 0.6714500188827515,
+    "generation": "independent_mixture_sample"
+  },
+  {
+    "episode": "episode_00046.npz",
+    "seed": 100046,
+    "start": 10,
+    "horizon": 5,
+    "teacher_forced_nll": 35.50557327270508,
+    "free_running_latent_mse_to_mu": 0.567246675491333,
+    "generation": "independent_mixture_sample"
+  },
+  {
+    "episode": "episode_00046.npz",
+    "seed": 100046,
+    "start": 10,
+    "horizon": 10,
+    "teacher_forced_nll": 35.42473602294922,
+    "free_running_latent_mse_to_mu": 0.7418017387390137,
+    "generation": "independent_mixture_sample"
+  },
+  {
+    "episode": "episode_00046.npz",
+    "seed": 100046,
+    "start": 10,
+    "horizon": 20,
+    "teacher_forced_nll": 34.97344207763672,
+    "free_running_latent_mse_to_mu": 0.9896891713142395,
+    "generation": "independent_mixture_sample"
+  },
+  {
+    "episode": "episode_00047.npz",
+    "seed": 100042,
+    "start": 10,
+    "horizon": 1,
+    "teacher_forced_nll": 33.146366119384766,
+    "free_running_latent_mse_to_mu": 0.6305605173110962,
+    "generation": "independent_mixture_sample"
+  },
+  {
+    "episode": "episode_00047.npz",
+    "seed": 100042,
+    "start": 10,
+    "horizon": 5,
+    "teacher_forced_nll": 32.9938850402832,
+    "free_running_latent_mse_to_mu": 0.5593228340148926,
+    "generation": "independent_mixture_sample"
+  },
+  {
+    "episode": "episode_00047.npz",
+    "seed": 100042,
+    "start": 10,
+    "horizon": 10,
+    "teacher_forced_nll": 31.737878799438477,
+    "free_running_latent_mse_to_mu": 0.8335522413253784,
+    "generation": "independent_mixture_sample"
+  },
+  {
+    "episode": "episode_00047.npz",
+    "seed": 100042,
+    "start": 10,
+    "horizon": 20,
+    "teacher_forced_nll": 31.903972625732422,
+    "free_running_latent_mse_to_mu": 1.196558952331543,
+    "generation": "independent_mixture_sample"
+  },
+  {
+    "episode": "episode_00047.npz",
+    "seed": 100043,
+    "start": 10,
+    "horizon": 1,
+    "teacher_forced_nll": 38.484798431396484,
+    "free_running_latent_mse_to_mu": 0.6319113969802856,
+    "generation": "independent_mixture_sample"
+  },
+  {
+    "episode": "episode_00047.npz",
+    "seed": 100043,
+    "start": 10,
+    "horizon": 5,
+    "teacher_forced_nll": 34.797672271728516,
+    "free_running_latent_mse_to_mu": 1.0768500566482544,
+    "generation": "independent_mixture_sample"
+  },
+  {
+    "episode": "episode_00047.npz",
+    "seed": 100043,
+    "start": 10,
+    "horizon": 10,
+    "teacher_forced_nll": 32.05962371826172,
+    "free_running_latent_mse_to_mu": 0.854442298412323,
+    "generation": "independent_mixture_sample"
+  },
+  {
+    "episode": "episode_00047.npz",
+    "seed": 100043,
+    "start": 10,
+    "horizon": 20,
+    "teacher_forced_nll": 32.81682586669922,
+    "free_running_latent_mse_to_mu": 0.7349879741668701,
+    "generation": "independent_mixture_sample"
+  },
+  {
+    "episode": "episode_00047.npz",
+    "seed": 100044,
+    "start": 10,
+    "horizon": 1,
+    "teacher_forced_nll": 35.604461669921875,
+    "free_running_latent_mse_to_mu": 0.6310694813728333,
+    "generation": "independent_mixture_sample"
+  },
+  {
+    "episode": "episode_00047.npz",
+    "seed": 100044,
+    "start": 10,
+    "horizon": 5,
+    "teacher_forced_nll": 35.0431022644043,
+    "free_running_latent_mse_to_mu": 0.6566499471664429,
+    "generation": "independent_mixture_sample"
+  },
+  {
+    "episode": "episode_00047.npz",
+    "seed": 100044,
+    "start": 10,
+    "horizon": 10,
+    "teacher_forced_nll": 32.799766540527344,
+    "free_running_latent_mse_to_mu": 1.3972653150558472,
+    "generation": "independent_mixture_sample"
+  },
+  {
+    "episode": "episode_00047.npz",
+    "seed": 100044,
+    "start": 10,
+    "horizon": 20,
+    "teacher_forced_nll": 33.2321891784668,
+    "free_running_latent_mse_to_mu": 1.16536283493042,
+    "generation": "independent_mixture_sample"
+  },
+  {
+    "episode": "episode_00047.npz",
+    "seed": 100045,
+    "start": 10,
+    "horizon": 1,
+    "teacher_forced_nll": 33.74661636352539,
+    "free_running_latent_mse_to_mu": 0.8729969263076782,
+    "generation": "independent_mixture_sample"
+  },
+  {
+    "episode": "episode_00047.npz",
+    "seed": 100045,
+    "start": 10,
+    "horizon": 5,
+    "teacher_forced_nll": 31.3195858001709,
+    "free_running_latent_mse_to_mu": 0.874951958656311,
+    "generation": "independent_mixture_sample"
+  },
+  {
+    "episode": "episode_00047.npz",
+    "seed": 100045,
+    "start": 10,
+    "horizon": 10,
+    "teacher_forced_nll": 31.88253402709961,
+    "free_running_latent_mse_to_mu": 0.7629992961883545,
+    "generation": "independent_mixture_sample"
+  },
+  {
+    "episode": "episode_00047.npz",
+    "seed": 100045,
+    "start": 10,
+    "horizon": 20,
+    "teacher_forced_nll": 31.950931549072266,
+    "free_running_latent_mse_to_mu": 0.8651280999183655,
+    "generation": "independent_mixture_sample"
+  },
+  {
+    "episode": "episode_00047.npz",
+    "seed": 100046,
+    "start": 10,
+    "horizon": 1,
+    "teacher_forced_nll": 36.118919372558594,
+    "free_running_latent_mse_to_mu": 0.8287199139595032,
+    "generation": "independent_mixture_sample"
+  },
+  {
+    "episode": "episode_00047.npz",
+    "seed": 100046,
+    "start": 10,
+    "horizon": 5,
+    "teacher_forced_nll": 36.436161041259766,
+    "free_running_latent_mse_to_mu": 0.716570258140564,
+    "generation": "independent_mixture_sample"
+  },
+  {
+    "episode": "episode_00047.npz",
+    "seed": 100046,
+    "start": 10,
+    "horizon": 10,
+    "teacher_forced_nll": 33.90861129760742,
+    "free_running_latent_mse_to_mu": 1.0959525108337402,
+    "generation": "independent_mixture_sample"
+  },
+  {
+    "episode": "episode_00047.npz",
+    "seed": 100046,
+    "start": 10,
+    "horizon": 20,
+    "teacher_forced_nll": 33.540016174316406,
+    "free_running_latent_mse_to_mu": 1.0468318462371826,
+    "generation": "independent_mixture_sample"
+  },
+  {
+    "episode": "episode_00049.npz",
+    "seed": 100042,
+    "start": 10,
+    "horizon": 1,
+    "teacher_forced_nll": 32.69321823120117,
+    "free_running_latent_mse_to_mu": 0.6569133996963501,
+    "generation": "independent_mixture_sample"
+  },
+  {
+    "episode": "episode_00049.npz",
+    "seed": 100042,
+    "start": 10,
+    "horizon": 5,
+    "teacher_forced_nll": 34.8236198425293,
+    "free_running_latent_mse_to_mu": 0.6058273315429688,
+    "generation": "independent_mixture_sample"
+  },
+  {
+    "episode": "episode_00049.npz",
+    "seed": 100042,
+    "start": 10,
+    "horizon": 10,
+    "teacher_forced_nll": 34.073177337646484,
+    "free_running_latent_mse_to_mu": 0.8936059474945068,
+    "generation": "independent_mixture_sample"
+  },
+  {
+    "episode": "episode_00049.npz",
+    "seed": 100042,
+    "start": 10,
+    "horizon": 20,
+    "teacher_forced_nll": 33.37718963623047,
+    "free_running_latent_mse_to_mu": 0.9055519700050354,
+    "generation": "independent_mixture_sample"
+  },
+  {
+    "episode": "episode_00049.npz",
+    "seed": 100043,
+    "start": 10,
+    "horizon": 1,
+    "teacher_forced_nll": 44.02660369873047,
+    "free_running_latent_mse_to_mu": 0.6618577837944031,
+    "generation": "independent_mixture_sample"
+  },
+  {
+    "episode": "episode_00049.npz",
+    "seed": 100043,
+    "start": 10,
+    "horizon": 5,
+    "teacher_forced_nll": 35.647315979003906,
+    "free_running_latent_mse_to_mu": 0.9024975299835205,
+    "generation": "independent_mixture_sample"
+  },
+  {
+    "episode": "episode_00049.npz",
+    "seed": 100043,
+    "start": 10,
+    "horizon": 10,
+    "teacher_forced_nll": 34.577213287353516,
+    "free_running_latent_mse_to_mu": 0.6958193778991699,
+    "generation": "independent_mixture_sample"
+  },
+  {
+    "episode": "episode_00049.npz",
+    "seed": 100043,
+    "start": 10,
+    "horizon": 20,
+    "teacher_forced_nll": 34.28667449951172,
+    "free_running_latent_mse_to_mu": 0.7562384605407715,
+    "generation": "independent_mixture_sample"
+  },
+  {
+    "episode": "episode_00049.npz",
+    "seed": 100044,
+    "start": 10,
+    "horizon": 1,
+    "teacher_forced_nll": 41.97126770019531,
+    "free_running_latent_mse_to_mu": 0.6869959235191345,
+    "generation": "independent_mixture_sample"
+  },
+  {
+    "episode": "episode_00049.npz",
+    "seed": 100044,
+    "start": 10,
+    "horizon": 5,
+    "teacher_forced_nll": 38.278358459472656,
+    "free_running_latent_mse_to_mu": 0.5314067602157593,
+    "generation": "independent_mixture_sample"
+  },
+  {
+    "episode": "episode_00049.npz",
+    "seed": 100044,
+    "start": 10,
+    "horizon": 10,
+    "teacher_forced_nll": 35.47373962402344,
+    "free_running_latent_mse_to_mu": 1.0598335266113281,
+    "generation": "independent_mixture_sample"
+  },
+  {
+    "episode": "episode_00049.npz",
+    "seed": 100044,
+    "start": 10,
+    "horizon": 20,
+    "teacher_forced_nll": 35.09315872192383,
+    "free_running_latent_mse_to_mu": 1.3086951971054077,
+    "generation": "independent_mixture_sample"
+  },
+  {
+    "episode": "episode_00049.npz",
+    "seed": 100045,
+    "start": 10,
+    "horizon": 1,
+    "teacher_forced_nll": 34.82566833496094,
+    "free_running_latent_mse_to_mu": 0.9154918193817139,
+    "generation": "independent_mixture_sample"
+  },
+  {
+    "episode": "episode_00049.npz",
+    "seed": 100045,
+    "start": 10,
+    "horizon": 5,
+    "teacher_forced_nll": 33.17799377441406,
+    "free_running_latent_mse_to_mu": 0.9243292808532715,
+    "generation": "independent_mixture_sample"
+  },
+  {
+    "episode": "episode_00049.npz",
+    "seed": 100045,
+    "start": 10,
+    "horizon": 10,
+    "teacher_forced_nll": 34.020896911621094,
+    "free_running_latent_mse_to_mu": 0.7932031154632568,
+    "generation": "independent_mixture_sample"
+  },
+  {
+    "episode": "episode_00049.npz",
+    "seed": 100045,
+    "start": 10,
+    "horizon": 20,
+    "teacher_forced_nll": 33.33784484863281,
+    "free_running_latent_mse_to_mu": 0.8794384002685547,
+    "generation": "independent_mixture_sample"
+  },
+  {
+    "episode": "episode_00049.npz",
+    "seed": 100046,
+    "start": 10,
+    "horizon": 1,
+    "teacher_forced_nll": 39.472713470458984,
+    "free_running_latent_mse_to_mu": 0.7323353290557861,
+    "generation": "independent_mixture_sample"
+  },
+  {
+    "episode": "episode_00049.npz",
+    "seed": 100046,
+    "start": 10,
+    "horizon": 5,
+    "teacher_forced_nll": 35.95156478881836,
+    "free_running_latent_mse_to_mu": 0.5357336401939392,
+    "generation": "independent_mixture_sample"
+  },
+  {
+    "episode": "episode_00049.npz",
+    "seed": 100046,
+    "start": 10,
+    "horizon": 10,
+    "teacher_forced_nll": 34.93107986450195,
+    "free_running_latent_mse_to_mu": 0.6746768951416016,
+    "generation": "independent_mixture_sample"
+  },
+  {
+    "episode": "episode_00049.npz",
+    "seed": 100046,
+    "start": 10,
+    "horizon": 20,
+    "teacher_forced_nll": 34.594669342041016,
+    "free_running_latent_mse_to_mu": 0.8845574855804443,
+    "generation": "independent_mixture_sample"
+  }
+]

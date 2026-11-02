@@ -1,0 +1,32 @@
+{
+  "seed": 42,
+  "device": "cpu",
+  "output_dir": "outputs/smoke",
+  "data": {
+    "episodes": 2,
+    "max_steps": 50,
+    "policy": "correlated",
+    "action_repeat": 5,
+    "val_fraction": 0.2
+  },
+  "model": {
+    "latent_dim": 32,
+    "hidden_dim": 64,
+    "num_mixtures": 3
+  },
+  "training": {
+    "batch_size": 4,
+    "vae_epochs": 2,
+    "mdn_epochs": 2,
+    "learning_rate": 0.001,
+    "beta": 1.0,
+    "seq_len": 8,
+    "latent_mode": "sample",
+    "grad_clip": 5.0
+  },
+  "rollout": {
+    "horizon": 20,
+    "start": 5,
+    "trajectories": 3
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "one_step_nll": 48.16894378662109,
+  "stationary_unit_gaussian_nll": 61.48796142578125,
+  "units": "nats/transition, summed over latent dimensions",
+  "latent_mode": "sample",
+  "context": "reset per independent sequence window"
+}

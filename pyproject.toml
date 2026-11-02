@@ -1,0 +1,28 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "world-models-mini"
+version = "0.1.0"
+description = "A small, reproducible World Models learning pipeline"
+requires-python = ">=3.11"
+dependencies = [
+  "torch>=2.2", "numpy>=1.26", "gymnasium[box2d]>=1.0,<2",
+  "Pillow>=10", "PyYAML>=6", "matplotlib>=3.8", "tqdm>=4.66"
+]
+
+[project.optional-dependencies]
+dev = ["pytest>=8"]
+video = ["imageio[ffmpeg]>=2.34"]
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+pythonpath = ["src"]
+testpaths = ["tests"]
+
+# Box2D source builds need the SWIG executable in their isolated build environment.
+[tool.uv.extra-build-dependencies]
+box2d-py = ["swig"]

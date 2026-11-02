@@ -1,0 +1,59 @@
+# Local Python environments
+.venv/
+venv/
+env/
+
+# Python bytecode, packaging, and tool caches
+__pycache__/
+*.py[cod]
+*.egg-info/
+/build/
+/dist/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+.coverage.*
+htmlcov/
+coverage.xml
+.ipynb_checkpoints/
+
+# Generated experiments: datasets, latent caches, checkpoints, logs, and media
+/outputs/
+/data/
+/datasets/
+/latents/
+/checkpoints/
+/runs/
+/wandb/
+*.pt
+*.pth
+*.ckpt
+*.npz
+*.npy
+*.log
+
+# Local secrets and credentials (sanitized templates may be committed)
+.env
+.env.*
+!.env.example
+!.env.sample
+/.aws/
+/secrets/
+/credentials/
+*.pem
+*.key
+
+# Machine-specific editor and OS files
+.vscode/
+.idea/
+.DS_Store
+._*
+Thumbs.db
+*.swp
+*.swo
+*~
+
+# Keep source, configs, tests, notebooks, pyproject.toml, and uv.lock in Git.
+# Curated result snapshots in docs/experiments/ and media in docs/assets/
+# are intentionally publishable, including PNG, GIF, and MP4 files.

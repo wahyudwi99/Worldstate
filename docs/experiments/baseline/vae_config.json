@@ -1,0 +1,32 @@
+{
+  "seed": 42,
+  "device": "cpu",
+  "output_dir": "outputs/baseline",
+  "data": {
+    "episodes": 50,
+    "max_steps": 300,
+    "policy": "correlated",
+    "action_repeat": 5,
+    "val_fraction": 0.2
+  },
+  "model": {
+    "latent_dim": 32,
+    "hidden_dim": 256,
+    "num_mixtures": 5
+  },
+  "training": {
+    "batch_size": 16,
+    "vae_epochs": 20,
+    "mdn_epochs": 20,
+    "learning_rate": 0.001,
+    "beta": 1.0,
+    "seq_len": 32,
+    "latent_mode": "sample",
+    "grad_clip": 5.0
+  },
+  "rollout": {
+    "horizon": 20,
+    "start": 10,
+    "trajectories": 5
+  }
+}

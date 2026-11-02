@@ -1,0 +1,10 @@
+{
+  "train": [
+    "episode_00000.npz"
+  ],
+  "val": [
+    "episode_00001.npz"
+  ],
+  "seed": 42,
+  "val_fraction": 0.2
+}

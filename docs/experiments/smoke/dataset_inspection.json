@@ -1,0 +1,16 @@
+[
+  {
+    "episode": "episode_00000.npz",
+    "steps": 50,
+    "min_pixel": 0,
+    "max_pixel": 253,
+    "total_reward": 16.201414108276367
+  },
+  {
+    "episode": "episode_00001.npz",
+    "steps": 50,
+    "min_pixel": 0,
+    "max_pixel": 253,
+    "total_reward": 18.102310180664062
+  }
+]

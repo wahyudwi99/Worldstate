@@ -1,0 +1,6 @@
+{
+  "total": 493.89840399050246,
+  "reconstruction": 489.17130713369335,
+  "kl": 4.727096510868447,
+  "reconstruction_mode": "decode_posterior_mean"
+}
