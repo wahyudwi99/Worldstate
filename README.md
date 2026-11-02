@@ -92,7 +92,36 @@ The top row is the real future. The middle row decodes the real frames' posterio
 Different seeds sample different futures under the same action sequence. Variation shows the model's stochastic outputs; it does not by itself establish calibrated uncertainty.
 
 <details>
-<summary><strong>Training curves and collected frames</strong></summary>
+<summary><strong>Smoke run: training results and rollout</strong></summary>
+
+Two episodes, 50 steps per episode, and two epochs per model. A small workflow check with visibly limited learned detail.
+
+#### Vision: VAE training
+
+![Smoke VAE training and validation curves](docs/assets/smoke/vae_training.png)
+
+#### Memory: MDN-RNN training
+
+![Smoke MDN-RNN training and validation NLL](docs/assets/smoke/mdn_training.png)
+
+#### Dataset preview
+
+![Smoke collected episode frames](docs/assets/smoke/dataset_montage.png)
+
+#### Result: actual vs imagined
+
+<p align="left">
+  <img src="docs/assets/smoke/rollout.gif" alt="Smoke experiment actual versus imagined frames">
+</p>
+
+Real future on the left; a sampled imagined future on the right.
+
+</details>
+
+<details>
+<summary><strong>Baseline run: training results and rollout</strong></summary>
+
+50 episodes, 300 steps per episode, and 20 epochs per model. The larger experiment behind the current baseline results.
 
 #### Vision: VAE training
 
@@ -104,16 +133,17 @@ Different seeds sample different futures under the same action sequence. Variati
 
 #### Dataset preview
 
-![Frames from collected CarRacing episodes](docs/assets/baseline/dataset_montage.png)
+![Baseline collected episode frames](docs/assets/baseline/dataset_montage.png)
 
-</details>
+#### Result: actual vs imagined
 
-<details>
-<summary><strong>Smoke run: the small starting point</strong></summary>
+<p align="left">
+  <img src="docs/assets/baseline/rollout.gif" alt="Baseline experiment actual versus imagined frames">
+</p>
 
-![Smoke experiment actual versus imagined frames](docs/assets/smoke/rollout.gif)
+Real future on the left; a sampled imagined future on the right.
 
-Only two episodes and two epochs per model: a useful workflow check, with visibly limited learned detail.
+[Watch the baseline MP4](docs/assets/baseline/rollout.mp4).
 
 </details>
 
